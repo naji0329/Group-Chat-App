@@ -1,4 +1,4 @@
-# GroupChatApp
+# Group Chat App
 ## About
 Developed a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other.
 
@@ -15,13 +15,13 @@ Dark Mode is enabled or disabled based on whether the system's theme is dark or 
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/GroupChatApp.git
+$ git clone https://github.com/naji0329/Group-Chat-App.git
 ```
 
 2. Open the project and install dependencies (using terminal):
 
 ```
-$ cd GroupChatApp
+$ cd Group-Chat-App
 $ flutter pub get
 ```
 This installs all the required dependencies like cloud_firestore, shared_preferences, flutter_spinkit etc...
